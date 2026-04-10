@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <books>
+    <book id="1">
+      <title>The Great Gatsby</title>
+      <author>F. Scott Fitzgerald</author>
+      <genre>Classic Fiction</genre>
+      <status>available</status>
+      <borrower></borrower>
+      <borrowDate></borrowDate>
+      <returnDate></returnDate>
+    </book>
+    <book id="2">
+      <title>To Kill a Mockingbird</title>
+      <author>Harper Lee</author>
+      <genre>Classic Fiction</genre>
+      <status>borrowed</status>
+      <borrower>John Smith</borrower>
+      <borrowDate>2026-04-01</borrowDate>
+      <returnDate>2026-04-15</returnDate>
+    </book>
+    <book id="3">
+      <title>1984</title>
+      <author>George Orwell</author>
+      <genre>Dystopian Fiction</genre>
+      <status>available</status>
+      <borrower></borrower>
+      <borrowDate></borrowDate>
+      <returnDate></returnDate>
+    </book>
+    <book id="4">
+      <title>Pride and Prejudice</title>
+      <author>Jane Austen</author>
+      <genre>Romance</genre>
+      <status>borrowed</status>
+      <borrower>Emily Johnson</borrower>
+      <borrowDate>2026-04-05</borrowDate>
+      <returnDate>2026-04-19</returnDate>
+    </book>
+    <book id="5">
+      <title>The Catcher in the Rye</title>
+      <author>J.D. Salinger</author>
+      <genre>Coming-of-age Fiction</genre>
+      <status>available</status>
+      <borrower></borrower>
+      <borrowDate></borrowDate>
+      <returnDate></returnDate>
+    </book>
+    <book id="6">
+      <title>Brave New World</title>
+      <author>Aldous Huxley</author>
+      <genre>Dystopian Fiction</genre>
+      <status>available</status>
+      <borrower></borrower>
+      <borrowDate></borrowDate>
+      <returnDate></returnDate>
+    </book>
+    <book id="7">
+      <title>The Hobbit</title>
+      <author>J.R.R. Tolkien</author>
+      <genre>Fantasy</genre>
+      <status>borrowed</status>
+      <borrower>Michael Brown</borrower>
+      <borrowDate>2026-03-28</borrowDate>
+      <returnDate>2026-04-11</returnDate>
+    </book>
+    <book id="8">
+      <title>Fahrenheit 451</title>
+      <author>Ray Bradbury</author>
+      <genre>Science Fiction</genre>
+      <status>available</status>
+      <borrower></borrower>
+      <borrowDate></borrowDate>
+      <returnDate></returnDate>
+    </book>
+  </books>
+</library>
